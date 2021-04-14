@@ -1,2 +1,2 @@
 # REST-API
-All projects by REST appi (spring boot  + Rest api )
+All projects by REST api (spring boot  + Rest api )
